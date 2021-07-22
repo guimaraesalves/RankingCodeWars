@@ -1,64 +1,64 @@
 let ranking  = [
     {  
     nome: 'Julia Gama', 
-    pontos: 126 
+    pontos: 132 
     },    
     
     {
     nome: 'Laudemir',
-    pontos: 0
+    pontos: 250
     },
     
     {
     nome: 'Emanuel Martins',
-    pontos: 112
+    pontos: 130
     },    
     
     {
     nome: 'Lucas Elias',
-    pontos: 135
+    pontos: 139
     },    
     
     {
     nome: 'Ian kuntz',
-    pontos: 82
+    pontos: 89
     },
     
     {
     nome: 'João Pedro Nonato', 
-    pontos: 50
+    pontos: 132
     },
     
     {
     nome: 'Sthéfany Gomes',
-    pontos: 120
+    pontos: 165
     },
     
     
     {
     nome: 'Rafael Sousa', 
-    pontos: 133
+    pontos: 163
     },
     
     
     {
     nome: 'Wallace Silva', 
-    pontos: 281
+    pontos: 287
     },    
     
     {
     nome: 'Madu Rubini',
-    pontos: 111
+    pontos: 166
     },    
     
     {
     nome: 'Felipe Silveira',
-    pontos: 311
+    pontos: 343
     },
     
     {
     nome: 'Natan dos Santos',
-    pontos: 59
+    pontos: 69
     },
     
     {
@@ -68,28 +68,28 @@ let ranking  = [
     
     {
     nome: 'Miguel Teruel',
-    pontos: 138
+    pontos: 162
     },
     
     {
     nome: 'Ique Moraes',
-    pontos: 69
+    pontos: 85
     },
         
     {
     nome: 'Nicholas dos Santos',
-    pontos: 57
+    pontos: 69
     },
     
     
     {
     nome: 'Gabriel Gutierrez',
-    pontos: 192
+    pontos: 219
     },    
     
     { 
     nome: 'Renato Tateiwa',
-    pontos: 322
+    pontos: 364
     },    
     
     { 
@@ -100,28 +100,28 @@ let ranking  = [
     
     { 
     nome: 'Willian Santos',
-    pontos: 70
+    pontos: 126
     },    
     
     { 
     nome: 'Mateus Alves',
-    pontos: 215
+    pontos: 250
     },    
     
     { 
     nome: 'Kaueh Prats',
-    pontos: 76
+    pontos: 130
     },    
     
     { 
     nome: 'Ricardo Oliveira',
-    pontos: 82
+    pontos: 126
     },
     
     
     { 
     nome: 'Victor Scherer',
-    pontos: 91
+    pontos: 106
     },    
     
     { 
@@ -131,12 +131,12 @@ let ranking  = [
     
     { 
     nome: 'Luciana Nunes',
-    pontos: 60
+    pontos: 81
     },   
     
     { 
     nome: 'Thiago Trad',
-    pontos: 100
+    pontos: 180
     }];
 
 
