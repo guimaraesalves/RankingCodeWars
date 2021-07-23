@@ -1,7 +1,7 @@
 let ranking  = [
     {  
     nome: 'Julia Gama', 
-    pontos: 132 
+    pontos: 142 
     },    
     
     {
@@ -11,69 +11,69 @@ let ranking  = [
     
     {
     nome: 'Emanuel Martins',
-    pontos: 130
+    pontos: 136
     },    
     
     {
     nome: 'Lucas Elias',
-    pontos: 139
+    pontos: 154
     },    
     
     {
     nome: 'Ian kuntz',
-    pontos: 89
+    pontos: 110
     },
     
     {
     nome: 'João Pedro Nonato', 
-    pontos: 132
+    pontos: 156
     },
     
     {
     nome: 'Sthéfany Gomes',
-    pontos: 165
+    pontos: 174
     },
     
     
     {
     nome: 'Rafael Sousa', 
-    pontos: 163
+    pontos: 169
     },
     
     
     {
     nome: 'Wallace Silva', 
-    pontos: 287
+    pontos: 334
     },    
     
     {
     nome: 'Madu Rubini',
-    pontos: 166
+    pontos: 184
     },    
     
     {
     nome: 'Felipe Silveira',
-    pontos: 343
+    pontos: 389
     },
     
     {
     nome: 'Natan dos Santos',
-    pontos: 69
+    pontos: 75
     },
     
     {
     nome: 'Matheus Bueno',
-    pontos: 220,
+    pontos: 364
     },    
     
     {
     nome: 'Miguel Teruel',
-    pontos: 162
+    pontos: 171
     },
     
     {
     nome: 'Ique Moraes',
-    pontos: 85
+    pontos: 127
     },
         
     {
@@ -84,7 +84,7 @@ let ranking  = [
     
     {
     nome: 'Gabriel Gutierrez',
-    pontos: 219
+    pontos: 222
     },    
     
     { 
@@ -100,38 +100,38 @@ let ranking  = [
     
     { 
     nome: 'Willian Santos',
-    pontos: 126
+    pontos: 142
     },    
     
     { 
     nome: 'Mateus Alves',
-    pontos: 250
+    pontos: 264
     },    
     
     { 
     nome: 'Kaueh Prats',
-    pontos: 130
+    pontos: 138
     },    
     
     { 
     nome: 'Ricardo Oliveira',
-    pontos: 126
+    pontos: 138
     },
     
     
     { 
     nome: 'Victor Scherer',
-    pontos: 106
+    pontos: 118
     },    
     
     { 
     nome: 'Natalia Veríssimo',
-    pontos: 0
+    pontos: 118
     },    
     
     { 
     nome: 'Luciana Nunes',
-    pontos: 81
+    pontos: 97
     },   
     
     { 
