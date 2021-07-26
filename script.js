@@ -1,7 +1,7 @@
 let ranking  = [
     {  
     nome: 'Julia Gama', 
-    pontos: 142 
+    pontos: 164 
     },    
     
     {
@@ -11,7 +11,7 @@ let ranking  = [
     
     {
     nome: 'Emanuel Martins',
-    pontos: 136
+    pontos: 232
     },    
     
     {
@@ -21,23 +21,23 @@ let ranking  = [
     
     {
     nome: 'Ian kuntz',
-    pontos: 110
+    pontos: 115
     },
     
     {
     nome: 'João Pedro Nonato', 
-    pontos: 156
+    pontos: 170
     },
     
     {
     nome: 'Sthéfany Gomes',
-    pontos: 174
+    pontos: 202
     },
     
     
     {
     nome: 'Rafael Sousa', 
-    pontos: 169
+    pontos: 195
     },
     
     
@@ -48,80 +48,80 @@ let ranking  = [
     
     {
     nome: 'Madu Rubini',
-    pontos: 184
+    pontos: 210
     },    
     
     {
     nome: 'Felipe Silveira',
-    pontos: 389
+    pontos: 479
     },
     
     {
     nome: 'Natan dos Santos',
-    pontos: 75
+    pontos: 119
     },
     
     {
     nome: 'Matheus Bueno',
-    pontos: 364
+    pontos: 444
     },    
     
     {
     nome: 'Miguel Teruel',
-    pontos: 171
+    pontos: 201
     },
     
     {
     nome: 'Ique Moraes',
-    pontos: 127
+    pontos: 148
     },
         
     {
     nome: 'Nicholas dos Santos',
-    pontos: 69
+    pontos: 125
     },
     
     
     {
     nome: 'Gabriel Gutierrez',
-    pontos: 222
+    pontos: 228
     },    
     
     { 
     nome: 'Renato Tateiwa',
-    pontos: 364
+    pontos: 444
     },    
     
     { 
     nome: 'Glen Escobar',
-    pontos: 218
+    pontos: 249
     },  
     
     
     { 
     nome: 'Willian Santos',
-    pontos: 142
+    pontos: 166
     },    
     
     { 
     nome: 'Mateus Alves',
-    pontos: 264
+    pontos: 314
     },    
     
     { 
     nome: 'Kaueh Prats',
-    pontos: 138
+    pontos: 140
     },    
     
     { 
     nome: 'Ricardo Oliveira',
-    pontos: 138
+    pontos: 150
     },
     
     
     { 
     nome: 'Victor Scherer',
-    pontos: 118
+    pontos: 164
     },    
     
     { 
@@ -131,7 +131,7 @@ let ranking  = [
     
     { 
     nome: 'Luciana Nunes',
-    pontos: 97
+    pontos: 145
     },   
     
     { 
