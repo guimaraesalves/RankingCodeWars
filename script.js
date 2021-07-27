@@ -1,59 +1,59 @@
 let ranking  = [
     {  
     nome: 'Julia Gama', 
-    pontos: 164 
+    pontos: 186 
     },    
     
     {
     nome: 'Laudemir',
-    pontos: 250
+    pontos: 366
     },
     
     {
     nome: 'Emanuel Martins',
-    pontos: 232
+    pontos: 277
     },    
     
     {
     nome: 'Lucas Elias',
-    pontos: 154
+    pontos: 174
     },    
     
     {
     nome: 'Ian kuntz',
-    pontos: 115
+    pontos: 129
     },
     
     {
     nome: 'João Pedro Nonato', 
-    pontos: 170
+    pontos: 192
     },
     
     {
     nome: 'Sthéfany Gomes',
-    pontos: 202
+    pontos: 232
     },
     
     
     {
     nome: 'Rafael Sousa', 
-    pontos: 195
+    pontos: 201
     },
     
     
     {
     nome: 'Wallace Silva', 
-    pontos: 334
+    pontos: 415
     },    
     
     {
     nome: 'Madu Rubini',
-    pontos: 210
+    pontos: 228
     },    
     
     {
     nome: 'Felipe Silveira',
-    pontos: 479
+    pontos: 521
     },
     
     {
@@ -63,17 +63,17 @@ let ranking  = [
     
     {
     nome: 'Matheus Bueno',
-    pontos: 444
+    pontos: 530
     },    
     
     {
     nome: 'Miguel Teruel',
-    pontos: 201
+    pontos: 214
     },
     
     {
     nome: 'Ique Moraes',
-    pontos: 148
+    pontos: 164
     },
         
     {
@@ -89,28 +89,28 @@ let ranking  = [
     
     { 
     nome: 'Renato Tateiwa',
-    pontos: 444
+    pontos: 566
     },    
     
     { 
     nome: 'Glen Escobar',
-    pontos: 249
+    pontos: 262
     },  
     
     
     { 
     nome: 'Willian Santos',
-    pontos: 166
+    pontos: 190
     },    
     
     { 
     nome: 'Mateus Alves',
-    pontos: 314
+    pontos: 318
     },    
     
     { 
     nome: 'Kaueh Prats',
-    pontos: 140
+    pontos: 164
     },    
     
     { 
@@ -121,7 +121,7 @@ let ranking  = [
     
     { 
     nome: 'Victor Scherer',
-    pontos: 164
+    pontos: 184
     },    
     
     { 
@@ -136,7 +136,7 @@ let ranking  = [
     
     { 
     nome: 'Thiago Trad',
-    pontos: 180
+    pontos: 200
     }];
 
 
