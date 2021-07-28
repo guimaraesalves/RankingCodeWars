@@ -1,7 +1,7 @@
 let ranking  = [
     {  
     nome: 'Julia Gama', 
-    pontos: 186 
+    pontos: 200 
     },    
     
     {
@@ -16,7 +16,7 @@ let ranking  = [
     
     {
     nome: 'Lucas Elias',
-    pontos: 174
+    pontos: 180
     },    
     
     {
@@ -26,34 +26,34 @@ let ranking  = [
     
     {
     nome: 'João Pedro Nonato', 
-    pontos: 192
+    pontos: 200
     },
     
     {
     nome: 'Sthéfany Gomes',
-    pontos: 232
+    pontos: 235
     },
     
     
     {
     nome: 'Rafael Sousa', 
-    pontos: 201
+    pontos: 213
     },
     
     
     {
     nome: 'Wallace Silva', 
-    pontos: 415
+    pontos: 511
     },    
     
     {
     nome: 'Madu Rubini',
-    pontos: 228
+    pontos: 248
     },    
     
     {
     nome: 'Felipe Silveira',
-    pontos: 521
+    pontos: 533
     },
     
     {
@@ -63,17 +63,17 @@ let ranking  = [
     
     {
     nome: 'Matheus Bueno',
-    pontos: 530
+    pontos: 650
     },    
     
     {
     nome: 'Miguel Teruel',
-    pontos: 214
+    pontos: 216
     },
     
     {
     nome: 'Ique Moraes',
-    pontos: 164
+    pontos: 182
     },
         
     {
@@ -89,7 +89,7 @@ let ranking  = [
     
     { 
     nome: 'Renato Tateiwa',
-    pontos: 566
+    pontos: 574
     },    
     
     { 
@@ -105,7 +105,7 @@ let ranking  = [
     
     { 
     nome: 'Mateus Alves',
-    pontos: 318
+    pontos: 320
     },    
     
     { 
@@ -121,7 +121,7 @@ let ranking  = [
     
     { 
     nome: 'Victor Scherer',
-    pontos: 184
+    pontos: 198
     },    
     
     { 
@@ -131,7 +131,7 @@ let ranking  = [
     
     { 
     nome: 'Luciana Nunes',
-    pontos: 145
+    pontos: 186
     },   
     
     { 
